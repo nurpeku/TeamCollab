@@ -9,4 +9,8 @@ public class MainUtils {
      public void greatThings(){
 
      }
+
+     public void bestThings(){
+
+     }
 }
